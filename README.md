@@ -10,7 +10,7 @@ The notebooks are not meant to be used in real systems.
 The notebooks are based on the following paper ["Distributed Point Functions and Their Applications"](https://link.springer.com/content/pdf/10.1007/978-3-642-55220-5_35.pdf)
 
 0. [Trivial 1 bit DPF with private set inclusion lookup](0_trivial_single_bit_DPF.ipynb)
-1. [Trivial n bit DPF with private information retrieval](1_trivial_multi_bit_DPF.ipynb)
+1. [Trivial n bit DPF with private information retrieval](1_trivial_multi_bit_DPF.ipynb) (contains code for $DPF_0$)
 
 ## References
 
