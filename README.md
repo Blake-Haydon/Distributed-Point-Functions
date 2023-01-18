@@ -1,13 +1,16 @@
 # Distributed Point Functions
 
-Python notebooks on distributed point functions.
-The notebooks are experiments for my own learning and understanding the topic.
-The notebooks are not meant to be used in real systems.
+Python notebooks on distributed point functions. The notebooks are experiments for my own learning and understanding the topic.
+
+### **Notebooks**
 
 The notebooks are based on the following paper ["Distributed Point Functions and Their Applications"](https://link.springer.com/content/pdf/10.1007/978-3-642-55220-5_35.pdf)
 
-1. [Trivial 1 bit DPF with private set inclusion lookup](0_trivial_single_bit_DPF.ipynb)
-2. [Trivial n bit DPF with private information retrieval](1_trivial_multi_bit_DPF.ipynb) (contains code for $DPF_0$)
+- [Naive DPF](naive_DPF.py) Examples
+  - [Single Bit Point Function](naive_DPF_single_bit.ipynb)
+  - [Multiple Bit Point Function](naive_DPF_multiple_bit.ipynb)
+  - [Private Set Inclusion](naive_DPF_set_inclusion.ipynb)
+  - [Private Database Read](naive_DPF_private_read.ipynb)
 
 ## References
 
